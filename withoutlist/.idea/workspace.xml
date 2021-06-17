@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="096dd4ed-f324-4895-bc91-ceb23f3a38ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\projects\java\java-practice\withoutlist\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tojT4FY2RmI8oB43JVtEVXFMHb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../withoutlist2" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="096dd4ed-f324-4895-bc91-ceb23f3a38ca" name="Default Changelist" comment="" />
+      <created>1623442340522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623442340522</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="-906" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623442638926">
+      <screen x="0" y="-1080" width="1920" height="1030" />
+    </state>
+    <state x="414" y="-906" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.-1080.1920.1030/0.0.1536.824@0.-1080.1920.1030" timestamp="1623442638926" />
+    <state x="689" y="-777" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1623442632461">
+      <screen x="0" y="-1080" width="1920" height="1030" />
+    </state>
+    <state x="689" y="-777" key="#com.intellij.ide.util.TreeClassChooserDialog/0.-1080.1920.1030/0.0.1536.824@0.-1080.1920.1030" timestamp="1623442632461" />
+    <state x="808" y="-672" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1623442364000">
+      <screen x="0" y="-1080" width="1920" height="1030" />
+    </state>
+    <state x="808" y="-672" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.-1080.1920.1030/0.0.1536.824@0.-1080.1920.1030" timestamp="1623442364000" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1623772097585">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.-1080.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1623772097585" />
+    <state x="654" y="-883" width="737" height="596" key="find.popup" timestamp="1623442558690">
+      <screen x="0" y="-1080" width="1920" height="1030" />
+    </state>
+    <state x="654" y="-883" width="737" height="596" key="find.popup/0.-1080.1920.1030/0.0.1536.824@0.-1080.1920.1030" timestamp="1623442558690" />
+    <state x="342" y="-949" key="new project wizard" timestamp="1623442685515">
+      <screen x="0" y="-1080" width="1920" height="1030" />
+    </state>
+    <state x="342" y="-949" key="new project wizard/0.-1080.1920.1030/0.0.1536.824@0.-1080.1920.1030" timestamp="1623442685515" />
+  </component>
+</project>
